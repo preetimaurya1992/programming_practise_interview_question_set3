@@ -16,5 +16,13 @@ int main(){
        cout<<"palindrome"<<endl;
        else
        cout<<"not palindrome"<<endl;
+         for(int i=n-1;i<=0;i--){
+         //rev[i]=s[i];
+         cout<<s[i]<<endl;
+    }
+       if(s==original)
+       cout<<"palindrome"<<endl;
+       else
+       cout<<"not palindrome"<<endl;
     return 0;
 }
