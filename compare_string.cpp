@@ -1,0 +1,1 @@
+//6. Write a Program to compare two strings.
